@@ -1,0 +1,9 @@
+Model,Accuracy,Precision (Class 0),Recall (Class 0),F1-Score (Class 0),Precision (Class 1),Recall (Class 1),F1-Score (Class 1)
+Logistic Regression,0.9992,0.9992,0.9999,0.9996,0.9007,0.392,0.5462
+Random Forest,0.9997,0.9997,1.0,0.9998,0.9617,0.7907,0.8679
+Decision Tree,0.9998,0.9999,0.9999,0.9999,0.9093,0.9037,0.9065
+Support Vector Machine,0.9991,0.9991,1.0,0.9995,0.9849,0.2827,0.4393
+K-Nearest Neighbors,0.9996,0.9997,0.9999,0.9998,0.924,0.7426,0.8234
+Gaussian Naive Bayes,0.5664,1.0,0.5658,0.7227,0.0029,1.0,0.0058
+XGBoost,0.9997,0.9997,1.0,0.9998,0.9525,0.7802,0.8578
+AdaBoost,0.9994,0.9995,0.9999,0.9997,0.8903,0.5759,0.6994
