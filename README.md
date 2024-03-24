@@ -1,4 +1,5 @@
 # Advanced Credit Card Fraud Detection Using Machine Learning
+## CSE 575 Statistical Machine Learning
 Implemented a data mining system pipeline using pandas, tensorflow and numpy, to enhance financial security by accurately identifying credit card fraud with 99% accuracy, with data preprocessing, and strategic feature engineering
 
 ## Importing the data
